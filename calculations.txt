@@ -1,0 +1,4 @@
+The sum of 2.0 and 5.0 is 7.0
+The difference of 2.0 and 5.0 is -3.0
+The product of 2.0 and 5.0 is 10.0
+The quotient of 2.0 and 5.0 is 0.4
