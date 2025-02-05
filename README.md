@@ -8,4 +8,4 @@
 7. File handling 
 8. Data Structures (Dictionaries)
 9. Modules
-10.
+10. Debugging
