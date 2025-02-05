@@ -1,0 +1,3 @@
+Jane Smith, Geography, 70, 20
+Jane Smith, Maths, 50, 40
+Jane Smith, English, 60, 40
