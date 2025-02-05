@@ -6,6 +6,6 @@
 5. Functions
 6. Lists
 7. File handling 
-8.
+8. Data Structures (Dictionaries)
 9. Modules
 10.
