@@ -5,7 +5,7 @@
 4. Loops
 5. Functions
 6. Lists
-7.
+7. File handling 
 8.
 9. Modules
 10.
